@@ -1,4 +1,4 @@
 # studyguru
 SELF LEARNING WEBSITE
 <br>
-Designer Name - Navneet Vishwakarma
+Designer Name - Navneet kumar Vishwakarma
